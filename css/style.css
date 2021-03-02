@@ -90,15 +90,9 @@ hr{
     margin-bottom: 10px;
     }
     
+  .full-color,
   .container.color{
     background-color: #f9f9f9;
-    width:100%;
-
-  }
-
-  .full-color{
-    background-color: #f9f9f9;
-  }
-
+  } 
 
 }
