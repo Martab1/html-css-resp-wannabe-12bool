@@ -12,7 +12,6 @@ img {
 }
 
 
-
 /* LEZIONI, STEPS, WHY COMMON */
 
 #lezioni .row img,
@@ -74,13 +73,6 @@ hr{
 
 
 
-
-
-
-
-
-
-
 /* LG DESKTOP da 992px in su */
 
 @media screen and (min-width: 992px){
@@ -103,5 +95,10 @@ hr{
     width:100%;
 
   }
+
+  .full-color{
+    background-color: #f9f9f9;
+  }
+
 
 }
