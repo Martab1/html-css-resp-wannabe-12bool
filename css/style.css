@@ -1,0 +1,77 @@
+/* GENERAL */
+
+.row {
+    margin-top: 70px;
+    line-height: 25px;
+    font-size: 20px;
+} 
+
+
+img {
+  height: 200px;
+}
+
+
+/* LEZIONI, STEPS, WHY COMMON */
+
+#lezioni .row img,
+#steps .row img {
+  /* per centrare orizzontalmente */
+  display: block;
+  margin: 30px auto;
+}
+
+#lezioni,
+#steps,
+#why{
+  text-align: center;
+}
+
+#steps h1,
+#why h1{
+  padding: 20px;
+}
+
+/* WHY */
+
+#why .row>.first,
+#why .row>.second,
+#why .row>.third {
+  margin-bottom: 50px;
+}  
+
+hr{
+ margin-top:15px;
+}
+
+#why .row img {
+  background-color: #528cbd;
+  border-radius: 50%;
+  padding: 30px 
+}
+
+
+.container.grey {
+  background-color: #afd6cb94;
+}
+
+
+
+/* MD TABLET da 768px a 991px*/
+
+@media screen and (min-width: 768px) and (max-width:991px){
+
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
